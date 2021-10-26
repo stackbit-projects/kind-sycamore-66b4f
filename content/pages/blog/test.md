@@ -10,7 +10,6 @@ featuredImage:
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
-author: content/data/team/person-b18o8skna.json
 ---
 ## Lorem ipsum
 
